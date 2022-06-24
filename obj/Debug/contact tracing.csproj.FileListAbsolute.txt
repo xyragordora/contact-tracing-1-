@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\bin\Debug\contact tracing.exe.config
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\bin\Debug\contact tracing.exe
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\bin\Debug\contact tracing.pdb
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact tracing.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact_tracing.Form1.resources
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact_tracing.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact tracing.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact tracing.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact tracing.exe
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\contact tracing\obj\Debug\contact tracing.pdb
